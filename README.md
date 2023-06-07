@@ -1,6 +1,6 @@
-[Optional] Vagrant
+# [Optional] Vagrant
 
-# Vagrant - or - how to code in your local computer
+## Vagrant - or - how to code in your local computer
 
 Sandboxes are great, but you can also do your ALX assessments on your local computer - having a virtual machine (VM) is the perfect tool for that.
 
@@ -13,7 +13,7 @@ Also:
 
 # Resourses
 
-**REad or watch**:
+**Read or watch**:
 
 * [Virtual machine](https://intranet.alxswe.com/rltoken/eoV8V_5fgzW_UhJ3PtVyWw "Virtual machine")
 
@@ -22,7 +22,7 @@ Also:
 
 # Learning Bbjectives
 
-At the end of this project, you are expected to be able to [ecplain to anyone](https://intranet.alxswe.com/rltoken/g5OVhHRsT0jjsvUI1Y8jgw "explain to anyone"), ** without the help of google **:
+At the end of this project, you are expected to be able to [ecplain to anyone](https://intranet.alxswe.com/rltoken/g5OVhHRsT0jjsvUI1Y8jgw "explain to anyone"), **without the help of google**:
 
 
 # General
